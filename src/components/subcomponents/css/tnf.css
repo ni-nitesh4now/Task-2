@@ -1,0 +1,30 @@
+.true-false {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.question-container {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: white;
+}
+
+.question-text {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.option-button {
+  flex-grow: 1;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.option-button + .option-button {
+  margin-left: 10px;
+}

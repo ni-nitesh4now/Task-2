@@ -1,0 +1,32 @@
+.mcq-quiz {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .question-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .question-text {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .options-container {
+    margin-top: 10px;
+  }
+  
+  .option-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
